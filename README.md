@@ -1,3 +1,5 @@
+A PROJECT EGYBEN LETÖLTHETŐ A GOOGLE DRIVE-RÓL: https://drive.google.com/file/d/1n5c-Fmkv6kT1PDRRyyr1wZLVRcKcMIho/view?usp=drive_link
+
 # Angular-project---BMI-kalkul-tor
 AngularJs project, BMI kalkulátor
 
